@@ -1,4 +1,4 @@
-# week-0
+# week0
 ## NAME_OF_YOUR_APP_HERE
 
 ### App Description
