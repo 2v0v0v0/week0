@@ -1,5 +1,5 @@
 # week0
-## NAME_OF_YOUR_APP_HERE
+## Thu's Hello World App
 
 ### App Description
 "Hello World" app 
